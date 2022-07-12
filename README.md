@@ -1,4 +1,4 @@
-# Movie Accurate Mewtwo Rigs
+# Movie Accurate Mewtwo Pose Dolls for Clip Studio Paint
 
 ![Illustration](https://user-images.githubusercontent.com/47396668/178416418-ec0e7ce1-6400-41d3-9bc9-a9350eba0cf0.png)
 
