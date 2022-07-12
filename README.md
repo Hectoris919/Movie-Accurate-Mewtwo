@@ -1,4 +1,6 @@
-# Movie-Accurate-Mewtwo
+# Movie Accurate Mewtwo Rigs
+
+![Illustration](https://user-images.githubusercontent.com/47396668/178416418-ec0e7ce1-6400-41d3-9bc9-a9350eba0cf0.png)
 
 ### Disclamer:
 
