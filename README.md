@@ -17,7 +17,7 @@
 
 ### Disclamer:
 
-Thighs are poorly rigged and deform incorrectly when they are rotated in certain ways.
+The pose doll's thighs are poorly rigged and deform incorrectly when they are rotated in certain ways.
 
 To mitigate this problem, I added a "Correction Bone" to each thigh that allows you to move around the deformed thigh to get a desired look on the model.
 
