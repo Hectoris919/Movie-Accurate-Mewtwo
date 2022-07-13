@@ -1,6 +1,9 @@
 # Movie Accurate Mewtwo Pose Dolls for Clip Studio Paint
 
-![Illustration2](https://user-images.githubusercontent.com/47396668/178568411-fa3bc3dc-aa1b-4937-a13d-aab5cfc36a5a.png)
+
+| Mewtwo from Mewtwo Strikes Back (M1 Mewtwo.csmc)| Mewtwo from Genesect and the Legend Awakened (M16 Mewtwo.csmc) |
+| --- | --- |
+| ![Illustration2](https://user-images.githubusercontent.com/47396668/178660085-29bc7161-4118-4d68-8dd9-2bbd21cac4c1.png) | ![Illustration](https://user-images.githubusercontent.com/47396668/178660096-1550750e-8a1e-487a-a3e9-5797469693a2.png) |
 
 ### Disclamer:
 
