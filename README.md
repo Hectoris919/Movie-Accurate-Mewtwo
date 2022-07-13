@@ -10,10 +10,17 @@
 
 ## Color Palette
 
+### Normal
 | Skin | Tail | Outline | Iris | Pupil | Eye whites |
 | --- | --- | --- | --- | --- | --- |
-| `#DBD4E0` | `#B38BB3` | `#53496F` | `#8E6698` | `060A0C` | `#FFFFFF` |
-| ![skin1](https://user-images.githubusercontent.com/47396668/178667001-ee896281-8213-4e07-8c74-72e9a92b1db8.png) | ![skin2](https://user-images.githubusercontent.com/47396668/178667077-63e610d7-046b-4d22-abf8-6327a36bd66b.png) | ![outline](https://user-images.githubusercontent.com/47396668/178667121-1241a147-fe0c-4082-b732-e6ce7f420cdd.png) | ![iris](https://user-images.githubusercontent.com/47396668/178667192-af8234c6-90f6-4781-a846-db99f2c5f516.png) | ![pupil](https://user-images.githubusercontent.com/47396668/178667209-9f52dc08-e961-4c9b-a139-12cdb535fa1c.png) | ![eye_whites](https://user-images.githubusercontent.com/47396668/178667221-804d4afb-6a87-4e79-b682-5b5020e8b3aa.png) |
+| `#DBD4E0` | `#B38BB3` | `#53496F` | `#8E6698` | `#060A0C` | `#EFEFEF` |
+| ![skin1](https://user-images.githubusercontent.com/47396668/178667001-ee896281-8213-4e07-8c74-72e9a92b1db8.png) | ![skin2](https://user-images.githubusercontent.com/47396668/178667077-63e610d7-046b-4d22-abf8-6327a36bd66b.png) | ![outline](https://user-images.githubusercontent.com/47396668/178667121-1241a147-fe0c-4082-b732-e6ce7f420cdd.png) | ![iris](https://user-images.githubusercontent.com/47396668/178667192-af8234c6-90f6-4781-a846-db99f2c5f516.png) | ![pupil](https://user-images.githubusercontent.com/47396668/178667209-9f52dc08-e961-4c9b-a139-12cdb535fa1c.png) | ![eye_whites](https://user-images.githubusercontent.com/47396668/178787161-66e837e1-d729-4e5c-80d3-15dee2be5fdc.png) |
+
+### Shiny
+| Skin | Tail | Outline | Iris | Pupil | Eye whites |
+| --- | --- | --- | --- | --- | --- |
+| `#E5E5E5` | `#7FCA69` | `#557649` | `#589B50` | `#252525` | `#EFEFEF` |
+| ![skin1](https://user-images.githubusercontent.com/47396668/178784938-78bfea12-4514-4391-81a3-a3b58560b95a.png) | ![skin2](https://user-images.githubusercontent.com/47396668/178785163-b583169d-dc8f-447a-8aef-7457dcc6b909.png) | ![outline](https://user-images.githubusercontent.com/47396668/178785697-bf57253a-7362-4131-979a-0a5e16f5e38f.png) | ![iris](https://user-images.githubusercontent.com/47396668/178786238-edcef415-9335-44d9-afc0-93d0e09391d4.png) | ![pupil](https://user-images.githubusercontent.com/47396668/178786389-e674fc47-1834-448e-95a7-fd2f7c7c3a3d.png) | ![eye_whites](https://user-images.githubusercontent.com/47396668/178786712-3fde5872-b801-486a-95fb-fee1ecc517ab.png) |
 
 ### Disclamer:
 
