@@ -10,7 +10,7 @@
 
 ## Color Palette
 
-| Skin color | Tail color | Outline color | Iris color | Pupil color | Eye whites color |
+| Skin | Tail | Outline | Iris | Pupil | Eye whites |
 | --- | --- | --- | --- | --- | --- |
 | `#DBD4E0` | `#B38BB3` | `#53496F` | `#8E6698` | `060A0C` | `#FFFFFF` |
 | ![skin1](https://user-images.githubusercontent.com/47396668/178667001-ee896281-8213-4e07-8c74-72e9a92b1db8.png) | ![skin2](https://user-images.githubusercontent.com/47396668/178667077-63e610d7-046b-4d22-abf8-6327a36bd66b.png) | ![outline](https://user-images.githubusercontent.com/47396668/178667121-1241a147-fe0c-4082-b732-e6ce7f420cdd.png) | ![iris](https://user-images.githubusercontent.com/47396668/178667192-af8234c6-90f6-4781-a846-db99f2c5f516.png) | ![pupil](https://user-images.githubusercontent.com/47396668/178667209-9f52dc08-e961-4c9b-a139-12cdb535fa1c.png) | ![eye_whites](https://user-images.githubusercontent.com/47396668/178667221-804d4afb-6a87-4e79-b682-5b5020e8b3aa.png) |
