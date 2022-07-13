@@ -26,4 +26,4 @@ To mitigate this problem, I added a "Correction Bone" to each thigh that allows 
 
 It's not perfect, but it gets the job done. I will update this rig when I find a better solution to this problem
 
-#### I am probably the most inactive person on social media _ever_ and have nothing to show for on social media, but if you still want to support me, here is my [Ko-Fi](https://ko-fi.com/thatlazyartist58126).
+#### I am probably the most inactive person on social media _ever_ and have nothing to show for on social media, but if you still want to support me, here is my [Ko-Fi](https://ko-fi.com/thatlazyartist919).
