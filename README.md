@@ -9,6 +9,10 @@
 | Shiny Varient ![Illustration2 Shiny](https://user-images.githubusercontent.com/47396668/178792506-f32e8eec-6b93-4e25-b864-b346198a00b3.png) | Shiny Varient ![Illustration Shiny](https://user-images.githubusercontent.com/47396668/178792895-23bd96ec-c38f-4642-b275-1ad850159ce6.png) |
 | Download: [M1 Mewtwo.csmc](https://github.com/Hectoris919/Movie-Accurate-Mewtwo/raw/main/M1%20Mewtwo.csmc) | Download: [M16 Mewtwo.csmc](https://github.com/Hectoris919/Movie-Accurate-Mewtwo/raw/main/M16%20Mewtwo.csmc) |
 
+### You can change the model's texture here:
+
+![image](https://user-images.githubusercontent.com/47396668/178828673-dde2e185-79c6-45f8-85b6-b4c21781a6f6.png)
+
 ## Color Palette
 
 ### Normal
