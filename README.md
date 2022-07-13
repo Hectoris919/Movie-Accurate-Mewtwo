@@ -11,7 +11,7 @@
 
 ### You can change the model's texture here:
 
-![image](https://user-images.githubusercontent.com/47396668/178828673-dde2e185-79c6-45f8-85b6-b4c21781a6f6.png)
+![image](https://user-images.githubusercontent.com/47396668/178828951-0477378e-3637-487a-b596-35c0a018899c.png)
 
 ## Color Palette
 
