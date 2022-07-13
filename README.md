@@ -5,7 +5,8 @@
 
 | Mewtwo from Mewtwo Strikes Back | Mewtwo from Genesect and the Legend Awakened |
 | --- | --- |
-| ![Illustration2](https://user-images.githubusercontent.com/47396668/178750650-53e9a6db-e1b5-48c7-bc50-4d938093d5a1.png) | ![Illustration](https://user-images.githubusercontent.com/47396668/178750732-d846ab3f-9c39-4204-aedf-7192f15f7702.png) |
+| Normal Varient ![Illustration2](https://user-images.githubusercontent.com/47396668/178750650-53e9a6db-e1b5-48c7-bc50-4d938093d5a1.png) | Normal Varient ![Illustration](https://user-images.githubusercontent.com/47396668/178793115-586b92e8-5a6d-4780-aa43-30d865879ca4.png) |
+| Shiny Varient ![Illustration2 Shiny](https://user-images.githubusercontent.com/47396668/178792506-f32e8eec-6b93-4e25-b864-b346198a00b3.png) | Shiny Varient ![Illustration Shiny](https://user-images.githubusercontent.com/47396668/178792895-23bd96ec-c38f-4642-b275-1ad850159ce6.png) |
 | Download: [M1 Mewtwo.csmc](https://github.com/Hectoris919/Movie-Accurate-Mewtwo/raw/main/M1%20Mewtwo.csmc) | Download: [M16 Mewtwo.csmc](https://github.com/Hectoris919/Movie-Accurate-Mewtwo/raw/main/M16%20Mewtwo.csmc) |
 
 ## Color Palette
