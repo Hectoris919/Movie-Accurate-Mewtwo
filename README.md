@@ -1,7 +1,7 @@
 # Movie Accurate Mewtwo Pose Dolls for Clip Studio Paint
 
 #### I wasn't able to find any 3D models that capture how the Mewtwos from Movies 1 and 16 are portrayed, so I decided to make my own.
-##### In my experiances rigged eyes and Clip Studio Modeler do not mix, so the models I made have blank outlines where the eyes should be drawn
+##### In my previouse experiances, rigged eyes and Clip Studio Modeler do not mix well, so the models I made have blank outlines where the eyes should be drawn
 
 | Mewtwo from Mewtwo Strikes Back | Mewtwo from Genesect and the Legend Awakened |
 | --- | --- |
